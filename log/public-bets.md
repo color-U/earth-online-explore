@@ -1,7 +1,7 @@
 # 公开赌约 Public Bets
 
 > 传播现场。每一份公开立下的赌约，及其去向与结局。
-> 格式规范见内核仓库 [`docs/bet-format.md`](https://github.com/color-U/another-me/blob/master/docs/bet-format.md)。
+> （原赌约格式文档已随内核仓库方向调整删除；本文件保留为历史记录，直到 2026-10-22 结算。）
 > 公开是选项不是义务（见规范「公开度」）——这里只收主人愿意被人围观的赌约。
 
 ---
